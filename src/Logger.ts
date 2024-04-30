@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import moment from 'moment';
-import { GrooveLoggerOptions } from './utils/options';
+import { GrooveLoggerOptions } from './@types';
 
 const fetchTime = (options: GrooveLoggerOptions) => {
     const momentInstance = moment().utcOffset(options.utcOffset || "+5:30");

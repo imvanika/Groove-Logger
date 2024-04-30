@@ -14,4 +14,4 @@ declare class GrooveLogger {
     error(content: string): void;
 }
 
-export { GrooveLogger, type GrooveLoggerOptions };
+export { GrooveLogger };

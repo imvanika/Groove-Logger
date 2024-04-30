@@ -1,5 +1,5 @@
-/src
 /node_modules
+/src
 
 .env
 .DS_Store
