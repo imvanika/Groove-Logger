@@ -1,6 +1,6 @@
 {
   "name": "groove-logger",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "An advanced logger!",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
